@@ -5,10 +5,10 @@
 <div id="header" align="center">
 ⚡ Fun fact: Nobody outranks Sergeant Safety except Major Negligence.
 </div>
+</br>
+</br>
 
-***
-
-
+## 🔥 Streak stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/KeiTagura/github-readme-streak-stats">
@@ -20,6 +20,10 @@
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+</br>
+</br>
+</br>
 
 ## 🛠️ Tools of the trade
 
@@ -109,9 +113,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+
+
+</br>
+</br>
+</br>
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -120,7 +134,7 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
+-->
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
