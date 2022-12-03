@@ -139,5 +139,15 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-
+<!--
+///
+///
+///
+///
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KeiTagura&theme=merko)](https://github.com/KeiTagura/github-readme-activity-graph)
+
+///
+///
+///
+///
+-->
