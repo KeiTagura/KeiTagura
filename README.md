@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-## 📊 Github stats
+<!-- ## 📊 Github stats -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
