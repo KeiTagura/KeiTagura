@@ -5,6 +5,7 @@
 <div id="header" align="center">
 ⚡ Fun fact: Nobody outranks Sergeant Safety except Major Negligence.
 </div>
+
 </br>
 </br>
 
@@ -24,6 +25,13 @@
 </br>
 </br>
 </br>
+
+
+## 🖌️ Portfolio
+<div id="header" align="center">
+ Visual Samples <a href="https://keitagura.portfoliobox.net/">keitagura.portfoliobox.net</a></p>
+</div>
+
 
 ## 🛠️ Tools of the trade
 
