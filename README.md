@@ -29,7 +29,7 @@
 
 ## 🖌️ Portfolio
 <div id="header" align="center">
- Visual Samples <a href="https://keitagura.portfoliobox.net/">keitagura.portfoliobox.net</a></p>
+ Visual Stuff <a href="https://keitagura.portfoliobox.net/">keitagura.portfoliobox.net</a></p>
 </div>
 
 
