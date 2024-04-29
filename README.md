@@ -89,7 +89,7 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=Unity&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=Unity&logoColor=white"></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unrealengine-%23313131.svg?logo=Unrealengine&logoColor=white"></a>
     <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
