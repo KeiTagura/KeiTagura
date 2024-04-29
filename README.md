@@ -38,7 +38,7 @@
 ### 👨‍💻 Programming and markup languages
 
 <p>
-    <a href="https://github.com/KeiTagura"><img alt="Zig" src="https://custom-icon-badges.demolab.com/badge/Zig-68217A.svg?logo=zig&logoColor=white"></a>
+    <a href="https://github.com/KeiTagura"><img alt="Zig" src="https://custom-icon-badges.demolab.com/badge/Zig-F7A41D.svg?logo=zig&logoColor=white"></a>
     <a href="https://github.com/KeiTagura"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/KeiTagura"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/KeiTagura"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
