@@ -35,6 +35,12 @@
 
 ## 🛠️ Tools of the trade
 
+I mostly work with as full stack game dev, with a background as a full stack web dev."
+
+I currently main **C#**, **Zig**, **WebGPU** and **C++**
+
+Below are a list of stuff I dabble in from time to time.
+
 ### 👨‍💻 Programming and markup languages
 
 <p>
