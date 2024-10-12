@@ -19,7 +19,6 @@
 </p>
 
 
-
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 </br>
